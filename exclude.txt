@@ -1,0 +1,30 @@
+# Developer folders - auto-generated, safe to skip
+node_modules
+__pycache__
+.next
+venv
+.venv
+dist
+build
+.gradle
+target
+
+# Compiled files
+*.pyc
+*.pyo
+*.class
+*.o
+*.obj
+*.exe
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
+
+# Secrets
+.env
+.env.local
+.env.production
