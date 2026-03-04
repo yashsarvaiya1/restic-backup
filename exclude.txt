@@ -17,9 +17,6 @@ target
 *.obj
 *.exe
 
-# Exclude specific full path (only this exact folder)
-C:\Users\%USERNAME%\Projects\old-stuff
-
 # Logs and temp files
 *.log
 *.tmp
@@ -31,3 +28,5 @@ Thumbs.db
 .env
 .env.local
 .env.production
+
+desktop.ini
